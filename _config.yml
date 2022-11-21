@@ -1,0 +1,51 @@
+# Site settings
+course_name: DA623 Computing with Signals
+course_description: "Computer vision deals with algorithmic analysis and understanding of the visual world via images and videos. It enjoys an important role in various applications such as healthcare, autonomy, security, entertainment, manufacturing, etc. The recent emergence of Deep learning has affected the field of computer vision significantly. Deep learning techniques have remarkably improved the performance of vision systems using large datasets. This course doesn't focus on the traditional computer vision techniques but discusses the deep learning methods for computer vision. Starting with the basics, the course covers the recent advancements in the area of computer vision driven by deep learning. Students are expected to have done a course on Machine learning, and preferably have some introduction to deep learning too."
+course_semester: "Jan-May 2023"
+
+baseurl: "/da623" # the subpath of your site, e.g. /blog/
+url: "http://neerajww.github.io/" # the base hostname & protocol for your site
+
+schoolname: "MFSDSAI, IITG"
+schoolurl: "https://www.iitg.ac.in/dsai/home"
+#twitter_username: username 
+
+address: |
+    Mehta Family School of Data Science and Artificial Intelligence
+    IIT Guwahati, India
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
