@@ -1,6 +1,6 @@
 # Site settings
 course_name: DA623 Computing with Signals
-course_description: "Computer vision deals with algorithmic analysis and understanding of the visual world via images and videos. It enjoys an important role in various applications such as healthcare, autonomy, security, entertainment, manufacturing, etc. The recent emergence of Deep learning has affected the field of computer vision significantly. Deep learning techniques have remarkably improved the performance of vision systems using large datasets. This course doesn't focus on the traditional computer vision techniques but discusses the deep learning methods for computer vision. Starting with the basics, the course covers the recent advancements in the area of computer vision driven by deep learning. Students are expected to have done a course on Machine learning, and preferably have some introduction to deep learning too."
+course_description: "This is a course meant for students who intend to learn signal processing from an interdisciplinary perspective. The course will provide the students with an understanding of signals, modern signal processing techniques and machine learning concepts. A student completing the course will be able to design and discuss solutions to real-world problems in the areas of audio, image, brain-computer interfacing, and atmospheric applications."
 course_semester: "Jan-May 2023"
 
 baseurl: "/da623" # the subpath of your site, e.g. /blog/
