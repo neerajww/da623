@@ -1,6 +1,6 @@
 # Site settings
 course_name: DA623 Computing with Signals
-course_description: "This is a course meant for students who intend to learn signal processing from an interdisciplinary perspective. The course will provide the students with an understanding of signals, modern signal processing techniques and machine learning concepts. A student completing the course will be able to design and discuss solutions to real-world problems in the areas of audio, image, brain-computer interfacing, and atmospheric applications."
+course_description: "This is an advanced course with a mix of learning, doing and presenting. The course content is divided into four parts. Three of these will focus on teaching the concepts and methods related to signal processing & machine learning, and drawing the links between them. To encourage learning by doing and to make the class interactive, the fourth part of the course will focus on development and research. This will include pursuing a project and presenting a paper from the literature. The course is meant for students who intend to learn signal processing from an interdisciplinary perspective. A student completing the course will be able to design and discuss solutions to real-world problems in the areas of audio, image, brain-computer interfacing, and atmospheric applications."
 course_semester: "Jan-May 2023"
 
 baseurl: "/da623" # the subpath of your site, e.g. /blog/
