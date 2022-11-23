@@ -2,7 +2,7 @@
 layout: home
 ---
 ## Course Contents
-The course content will be partitioned into four parts - 3 parts on teaching, 2 part on development and research.
+The course content will be partitioned into four parts - 3 parts on teaching, 1 part on development and research.
 
 **Part-1**: Foundations of Signal Processing
 
