@@ -5,7 +5,7 @@ layout: home
 **Part-1**: Foundations of Signal Processing
 
 1. Introduction to (recorded) signals
-2. Introduction to sensory processing: Hearing, vision, and our brain
+2. Human perception of signals: hearing, vision and brain
 3. Signal representations: continuous, Fourier series, Taylor series, discrete-time, sampling, basis functions, and linear algebra fundamentals
 4. DSP Methods: LTI system, convolution, DFT, DCT, time-frequency analysis
 
