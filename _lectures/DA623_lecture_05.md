@@ -17,7 +17,9 @@ hide_from_announcments: false
 links: 
     #- url: /static_files/presentations/lec.zip
     #  name: notes
-    #- url: /static_files/presentations/code.zip
+    # - url: /static_files/codes/lect_05_make_sine_wave.ipynb
+    #  name: codes
+    # - url: /static_files/codes/lect_05_fourier_series.ipynb
     #  name: codes
     - url: /static_files/presentations/iitG_DA623_lect_05.pdf
       name: slides
@@ -25,6 +27,10 @@ links:
     #  name: other
 ---
 
-**Suggested Readings:**
+**Readings:**
 - [Chapter 1: Lecture Notes for EE 261 - The Fourier Transform and its Applications, Brad Osgood](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf)
 - [Chapter 4: Foundations of Signal Processing, M. Vetterli, J. Kovacevic, V. K. Goyal](https://www.fourierandwavelets.org/)
+
+**Codes:**
+- [Making sine waves](/da623/static_files/presentations/lect_05_make_sine_wave.ipynb)
+- [Estimate Fourier series](/da623/static_files/presentations/lect_05_fourier_series.ipynb)

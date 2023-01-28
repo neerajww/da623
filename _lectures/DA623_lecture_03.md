@@ -25,5 +25,5 @@ links:
     #  name: other
 ---
 
-**Suggested Readings:**
+**Readings:**
 - [Chapter 1: Foundations of Signal Processing, M. Vetterli, J. Kovacevic, V. K. Goyal](https://www.fourierandwavelets.org/)

@@ -25,5 +25,8 @@ links:
     #  name: other
 ---
 
-**Suggested Readings:**
+**Readings:**
 - [Chapter 2: Lecture Notes for EE 261 - The Fourier Transform and its Applications, Brad Osgood](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf)
+
+**Code:**
+- [Rect(.) Fourier series](/da623/static_files/presentations/lect_07_make_rect_signal.ipynb)

@@ -25,8 +25,8 @@ links:
     #  name: other
 ---
 
-**Suggested Readings:**
+**Readings:**
 - [Chapter 2: Foundations of Signal Processing, M. Vetterli, J. Kovacevic, V. K. Goyal](https://www.fourierandwavelets.org/)
 
-**Suggested Viewing:**
+**Viewing:**
 - [The Vector Space of Polynomials, Trefor Bazett](https://www.youtube.com/watch?v=SzZaQnzstfE)
