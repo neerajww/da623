@@ -33,5 +33,6 @@ links:
 - [Gauss and the History of the Fast Fourier Transform](https://www.cis.rit.edu/class/simg716/Gauss_History_FFT.pdf) by Michael T. Heideman, Don H. Johnson, C. Sidney Burrus.
 
 **Code:**
-- [Computing in python](/da623/static_files/presentations/class_24_samp_DFT.ipynb)
+- [Computing DFT in python](/da623/static_files/presentations/class_24_samp_DFT.ipynb)
+- [Denosing with DFT](/da623/static_files/presentations/lect_23_denoise.ipynb)
 
